@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fis-01",
+    "titulo": "Análisis Dimensional y Vectores en 2D/3D",
+    "curso": "Física",
+    "nivel": "Desde Cero",
+    "universidad": "UNI / UNMSM",
+    "paginas": 14,
+    "descripcion": "Fundamentos vectoriales, descomposición rectangular y problemas clásicos con trampa de signos.",
+    "url": "https://wa.me/51912138703?text=Hola%20TioProject,%20solicito%20la%20separata%20de%20Vectores%20y%20An%C3%A1lisis%20Dimensional."
+  },
+  {
+    "id": "fis-02",
+    "titulo": "Cinemática: MRU, MRUV y Caída Libre (Enfoque DECO)",
+    "curso": "Física",
+    "nivel": "DECO",
+    "universidad": "UNMSM / UNAC",
+    "paginas": 18,
+    "descripcion": "Interpretación de gráficas v-t, encuentros móviles y problemas contextualizados tipo San Marcos.",
+    "url": "https://wa.me/51912138703?text=Hola%20TioProject,%20solicito%20el%20bolet%C3%ADn%20de%20Cinem%C3%A1tica%20DECO."
+  },
+  {
+    "id": "fis-03",
+    "titulo": "Estática y Diagrama de Cuerpo Libre (DCL)",
+    "curso": "Física",
+    "nivel": "Tipo UNI",
+    "universidad": "UNI / UNFV",
+    "paginas": 20,
+    "descripcion": "Equilibrio de traslación y rotación, rozamiento estático/cinético y poleas móviles.",
+    "url": "https://wa.me/51912138703?text=Hola%20TioProject,%20solicito%20el%20bolet%C3%ADn%20de%20Est%C3%A1tica%20y%20DCL."
+  },
+  {
+    "id": "alg-01",
+    "titulo": "Leyes de Exponentes y Productos Notables",
+    "curso": "Álgebra",
+    "nivel": "Desde Cero",
+    "universidad": "Todas",
+    "paginas": 12,
+    "descripcion": "Identidades condicionales, radicales dobles y artificios algebraicos indispensables.",
+    "url": "https://wa.me/51912138703?text=Hola%20TioProject,%20solicito%20la%20separata%20de%20Exponentes%20y%20Productos%20Notables."
+  },
+  {
+    "id": "alg-02",
+    "titulo": "Inecuaciones, Valor Absoluto y Funciones",
+    "curso": "Álgebra",
+    "nivel": "Tipo UNI",
+    "universidad": "UNI / UNMSM",
+    "paginas": 22,
+    "descripcion": "Puntos críticos, restricciones de dominio ocultas y análisis gráfico de funciones.",
+    "url": "https://wa.me/51912138703?text=Hola%20TioProject,%20solicito%20el%20bolet%C3%ADn%20de%20Inecuaciones%20y%20Funciones."
+  },
+  {
+    "id": "geo-01",
+    "titulo": "Triángulos: Líneas Notables y Congruencia",
+    "curso": "Geometría",
+    "nivel": "Desde Cero",
+    "universidad": "UNMSM / UNFV",
+    "paginas": 16,
+    "descripcion": "Trazos auxiliares clásicos y criterios de congruencia paso a paso.",
+    "url": "https://wa.me/51912138703?text=Hola%20TioProject,%20solicito%20la%20gu%C3%ADa%20de%20Tri%C3%A1ngulos%20y%20Congruencia."
+  },
+  {
+    "id": "tri-01",
+    "titulo": "Formulario Maestra de Identidades Trigonométricas",
+    "curso": "Trigonometría",
+    "nivel": "Formulario",
+    "universidad": "Todas",
+    "paginas": 2,
+    "descripcion": "Chuleta de bolsillo de 2 páginas con ángulo doble, mitad, transformaciones y reducción al I cuadrante.",
+    "url": "https://wa.me/51912138703?text=Hola%20TioProject,%20solicito%20el%20Formulario%20de%20Trigonometr%C3%ADa."
+  },
+  {
+    "id": "qui-01",
+    "titulo": "Estequiometría y Reactivo Limitante",
+    "curso": "Química",
+    "nivel": "DECO",
+    "universidad": "UNMSM / UNAC",
+    "paginas": 15,
+    "descripcion": "Leyes ponderales, pureza de reactivos, rendimiento porcentual y gases.",
+    "url": "https://wa.me/51912138703?text=Hola%20TioProject,%20solicito%20el%20bolet%C3%ADn%20de%20Estequiometr%C3%ADa."
+  }
+]

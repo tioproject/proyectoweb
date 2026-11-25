@@ -1,0 +1,16 @@
+[
+  {
+    "id": "duda-01",
+    "curso": "Física • Dinámica",
+    "alumno": "Postulante UNMSM",
+    "pregunta": "¿Por qué en un plano inclinado liso la aceleración del bloque no depende de su masa, pero si hay rozamiento tampoco depende de la masa?",
+    "explicacion": "Porque tanto la componente del peso $mg\\sin\\theta$ como la fuerza de rozamiento cinético $f_k = \\mu_k N = \\mu_k mg\\cos\\theta$ son proporcionales a la masa $m$. Al aplicar $F_{\\text{neta}} = ma$, la masa se cancela en ambos términos: $$a = g(\\sin\\theta - \\mu_k\\cos\\theta)$$"
+  },
+  {
+    "id": "duda-02",
+    "curso": "Álgebra • Radicales",
+    "alumno": "Postulante UNI",
+    "pregunta": "¿Cuál es la diferencia real entre $\\sqrt{x^2}$ y $(\\sqrt{x})^2$?",
+    "explicacion": "En los reales, $\\sqrt{x^2} = |x|$ está definida para todo $x \\in \\mathbb{R}$ (por ejemplo, $\\sqrt{(-3)^2} = |-3| = 3$). En cambio, $(\\sqrt{x})^2 = x$ exige primero que $x \\ge 0$ para que exista la raíz en $\\mathbb{R}$."
+  }
+]
